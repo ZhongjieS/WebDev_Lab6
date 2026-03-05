@@ -30,5 +30,25 @@ body {
   margin-bottom: 20px;
 }
 
+#header #toplink {
+  text-decoration: none;
+  position: absolute;
+  top:-34px;
+  right: 10px;
+  color: white;
+  font-size: 1.8em;
+}
+
+#footer {
+  background-color: #777;
+  height: 80px;
+  clear: both;
+}
+
+#content-wrapper {
+  background-image: url("../images/repeating.png");
+  float: left;
+}
+
 
 
